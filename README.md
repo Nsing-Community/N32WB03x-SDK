@@ -7,7 +7,7 @@
 
 ## 概述
 
-**N32WB03x-SDK** 是 N32WB03x 系列微控制器的固件开发套件，由 Nsing-Community 社区维护。仓库保留固件库、示例工程及随原始软件包提供的中间件和工具。
+**N32WB03x-SDK** 是 N32WB03x 系列微控制器的固件开发套件，由 NSING-Community 社区维护。仓库保留固件库、示例工程及随原始软件包提供的中间件和工具。
 
 ## 目录
 
@@ -45,7 +45,7 @@
 
 ## Overview
 
-**N32WB03x-SDK** is the firmware development kit for the N32WB03x microcontroller family, maintained by Nsing-Community. It preserves the firmware libraries, example projects, middleware, and tools supplied with the source package.
+**N32WB03x-SDK** is the firmware development kit for the N32WB03x microcontroller family, maintained by NSING-Community. It preserves the firmware libraries, example projects, middleware, and tools supplied with the source package.
 
 ## Top-level contents
 
